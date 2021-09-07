@@ -12,7 +12,7 @@ npm run serve
 
 ### Compiles and hot-reloads the backend
 ```
-npm run backend t
+npm run backend 
 ```
 
 ### Compiles and minifies for production
